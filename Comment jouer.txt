@@ -1,0 +1,3 @@
+Lorsque l'on lance le programme principal, on rentre dans un combat,
+et si on gagne le combat, cela lance une partie de pendu (fenetre python input) 
+puis a la fin de la partie de pendu cela relance un combat.
